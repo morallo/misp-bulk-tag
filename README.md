@@ -50,3 +50,7 @@ optional arguments:
 - All operations are logged in the file `journal.log`, using python `logging` module. The tab separated format is:
   `<timestamp>   <event_id> <operation> <target_tag>`
 - If the journal cannot be created/written, the script will exit.
+
+# Credits
+
+Airbus CERT
