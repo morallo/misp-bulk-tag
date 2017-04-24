@@ -6,7 +6,7 @@ This script performs bulk tagging operations over MISP.
 
 ## Setup
 
-- `git clone https://github.intra.cert.corp/morallo/misp-bulk-tag`
+- `git clone https://github.com/morallo/misp-bulk-tag`
 - Create a file "keys.py" with the following content:
 ```
 misp_url = 'https://<your_misp_url>'
