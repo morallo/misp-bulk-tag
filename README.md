@@ -51,6 +51,6 @@ optional arguments:
   `<timestamp>   <event_id> <operation> <target_tag>`
 - If the journal cannot be created/written, the script will exit.
 
-# Credits
+## Credits
 
 Airbus CERT
